@@ -18,7 +18,7 @@ I strive to write clean, efficient, and scalable code.
 
 ### 📫 How to contact me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@danila_emelin)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/danila_emelin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.emelin.qa@gmail.com)
 
 ---

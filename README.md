@@ -1,11 +1,11 @@
-## 👋 Привет! Я — начинающий Go backend-разработчик  
+## 👋   Hi! I'm a beginner Go backend developer
 
-Я изучаю Go и разрабатываю backend-приложения. В данный момент работаю над проектом **Task Manager API**, чтобы укрепить свои знания и пополнить портфолио.  
-Стремлюсь к написанию чистого, эффективного и масштабируемого кода.
+I'm learning Go and developing backend applications. At the moment, I am strengthening my knowledge and building my portfolio.
+I strive to write clean, efficient, and scalable code.
 
 ---
 
-### 🛠️ Мой стек технологий:
+### 🛠️ My technology stack:
 
 ![Go](https://img.shields.io/badge/Go-1B75BC?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -16,12 +16,12 @@
 
 ---
 
-### 📫 Как связаться со мной:
+### 📫 How to contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@danila_emelin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.emelin.qa@gmail.com)
 
 ---
 
-✨ **Я открыт к новым возможностям и сотрудничеству! Давайте работать вместе!** 🚀
+✨ **I am open to new opportunities and collaborations! Let's work together!** 🚀
 

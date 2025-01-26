@@ -1,4 +1,4 @@
-## 👋   Hi! I'm a beginner Go backend developer
+## 👋   Hi! I'm a Go backend developer
 
 I'm learning Go and developing backend applications. At the moment, I am strengthening my knowledge and building my portfolio.
 I strive to write clean, efficient, and scalable code.
